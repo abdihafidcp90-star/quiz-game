@@ -34,7 +34,7 @@ body{
 /* start screen  */
 
 #strat-screen h1 {
-    color: #e86a33;
+    color: #28df43;
     margin-bottom: 20px;
     font-size: 2.5rem;
 }
@@ -69,7 +69,7 @@ body{
 
 }
 .answer-btn{
-    background-color: #f8f0e5;
+    background-color: #f8f2e5;
     color: #333;
     border: 2px solid #eadbc8;
     border-radius: 10px;
@@ -80,7 +80,7 @@ body{
 
 }
 .answer-btn:hover{
-    background-color: #eadbc8;
+    background-color: #eadfc8;
     border-color: #dac0ae;
 }
 .answer-btn.correct{
@@ -103,14 +103,14 @@ body{
 }
 .progress{
     height: 100%;
-    background-color: #e86a33;
+    background-color: #28df43;
     width: 0%;
     transition: width 0.3s ease;
 }
  /* result screen */
 
  #result-screen h1 {
-    color: #e86a33;
+    color:#28df43;
     margin-bottom: 30px;
  }
  .result-info{
@@ -127,10 +127,10 @@ body{
  #result-message{
     font-size: 1.5rem;
     font-weight: 600;
-    color: #e86a33;
+    color:#57da6a;
  }
  button{
-    background-color: #e86a33;
+    background-color:#28df43;
     color: white;
     border: none;
     border-radius: 10px;
@@ -140,7 +140,7 @@ body{
     transition: background-color 0.3s ease;
  }
  button:hover{
-  background-color: #df5b28;
+  background-color: #28df43;
 
  }
 /* RESPONSIVE DESING */
